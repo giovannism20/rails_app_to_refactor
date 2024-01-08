@@ -10,7 +10,7 @@ gem 'rails', '~> 7.0', '>= 7.0.4.2'
 gem 'sqlite3', '~> 1.6'
 
 # Use Puma as the app server
-gem 'puma', '~> 6.0', '>= 6.0.2'
+gem 'puma', '~> 6.4'
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 # gem 'jbuilder', '~> 2.11', '>= 2.11.5'
